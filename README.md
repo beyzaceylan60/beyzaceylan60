@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @beyzaceylan60
+- ✨ I'm student of Giresun.
 - 👀 I’m interested in software.
 - 🌱 I’m currently learning Python and Java.
 - 📫 How to reach me: ceylanbeyza1327gmail.com or ig: beyza60ceylan
