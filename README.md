@@ -1,4 +1,6 @@
 EN: Hi everyone! I'm Beyza CEYLAN. I'm student at Giresun Universty and my department is Computer Engineering. My second year in this collage. I will share my codes. I'm interest in Java and Python programming languages. 
+
+
 TR: Herkese merhaba! Ben Beyza CEYLAN. Giresun Üniversitesinde öğrenciyim ve bölümüm Bilgisayar Mühendisliği. Bu üniversitede 2. yılım. Kodlarımı sizlerle paylaşacağım. Java ve Python programlama dilleriyle ilgileniyorum.
 
 <!---
