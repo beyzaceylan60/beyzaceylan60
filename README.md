@@ -1,3 +1,7 @@
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Ffizzy_pixel%2Fdraw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene&psig=AOvVaw0dQrDefs7vT9bZ90PJdWkt&ust=1735480336784000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjj1p3OyooDFQAAAAAdAAAAABAK)
+
+
+
 <h1 align="center">Hi 👋, I'm Beyza Ceylan</h1>
 <h3 align="center">I am a computer engineering student interested in software.</h3>
 
